@@ -3,7 +3,7 @@
 const thElements = document.querySelectorAll('th');
 
 thElements.forEach((element) => {
-  element.className = ".blue";
+  element.className = "blue";
 });
 
 // aggiungiamo da th class .blue, добавляем определенный класс к елементу th
