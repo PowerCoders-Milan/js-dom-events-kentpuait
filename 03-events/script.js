@@ -1,6 +1,7 @@
 // 1. generate an array of 20 random numbers
 
 // 2. show those numbers inside the page element.insertAdjentHTML
+
 const numbersList = document.querySelector('');
 numbersList.forEach(); // complete this iterator to do the task
 
